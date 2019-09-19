@@ -28,9 +28,9 @@
     ]
   },
   "devDependencies": {
-    "@babel/cli": "7.5.5",
-    "@babel/plugin-transform-modules-commonjs": "7.5.0",
-    "@babel/preset-env": "^7.5.5",
+    "@babel/cli": "7.6.0",
+    "@babel/plugin-transform-modules-commonjs": "7.6.0",
+    "@babel/preset-env": "^7.6.0",
     "@babel/preset-react": "7.0.0",
     "@lttb/eslint-config-default": "github:lttb/configs#js",
     "babel-core": "^7.0.0-bridge.0",
@@ -51,7 +51,7 @@
     "rimraf": "^3.0.0"
   },
   "dependencies": {
-    "@babel/core": "^7.5.5",
+    "@babel/core": "^7.6.0",
     "@babel/plugin-syntax-async-generators": "7.2.0",
     "@babel/plugin-syntax-class-properties": "7.2.0",
     "@babel/plugin-syntax-decorators": "7.2.0",
@@ -72,8 +72,8 @@
     "@babel/plugin-syntax-pipeline-operator": "7.5.0",
     "@babel/plugin-syntax-throw-expressions": "7.2.0",
     "@babel/plugin-syntax-typescript": "7.3.3",
-    "@babel/template": "7.4.4",
-    "@babel/types": "^7.5.5",
+    "@babel/template": "7.6.0",
+    "@babel/types": "^7.6.0",
     "core-js": "3.2.1",
     "cosmiconfig": "5.2.1",
     "string-hash": "1.1.3"
